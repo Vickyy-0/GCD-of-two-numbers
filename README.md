@@ -12,6 +12,9 @@ To write a program to find the GCD of two numbers using function.
 2. Get the two numbers from the user.
 3. Compare the two values, to find the smaller number.
 4. Use for() and if() loop to find the GCD of the two numbers.
+5.use range function for determining the start and stop value.
+6.use append function to append the numbers to the end
+7.print the reverse index of the string
 
 ## Program:
 ```
