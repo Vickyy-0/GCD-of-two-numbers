@@ -6,7 +6,7 @@ To write a program to find the GCD of two numbers using function.
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
+``````
 ## Algorithm
 1. Define a function.
 2. Get the two numbers from the user.
@@ -15,6 +15,7 @@ To write a program to find the GCD of two numbers using function.
 5.use range function for determining the start and stop value.
 6.use append function to append the numbers to the end
 7.print the reverse index of the string
+``````
 
 ## Program:
 ```
