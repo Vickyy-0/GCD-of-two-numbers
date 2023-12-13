@@ -38,7 +38,8 @@ print("GCD of two numbers is:",list[-1])
 ``````
 
 ## Output:
-![gcd of two number](/output.png)
+<img width="565" alt="image" src="https://github.com/Vigneshv-23/GCD-of-two-numbers/assets/110780412/9fa8bc18-e740-46b8-ba13-c76bd9d10f60">
+
 
 
 ## Result:
