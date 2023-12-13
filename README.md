@@ -43,4 +43,4 @@ print("GCD of two numbers is:",list[-1])
 
 
 ## Result:
-Thus the program to find the GCD of two numbers is written and verified using python programming.
+Thus the program to find the GCD of two numbers is written and verified using python programming
